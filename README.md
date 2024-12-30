@@ -10,10 +10,10 @@ Post scaling of the data, we applied different classification algorithms, includ
 The report based on the F1 score came  as below.
 |     Model                  |                            F1-Score   |
 |----------------------------|---------------------------------------|
-|   Support Vector Machine   |                0.978055               |
-|   Logistic Regression      |                0.963192               |
-|  Random Forest Classifier  |                0.955368               |
-|                      KNN   |                0.955368               |
-|Decision Tree Classifier    |                0.941988               |
+|   Support Vector Machine   |                0.98                   |
+|   Logistic Regression      |                0.96                   |
+|  Random Forest Classifier  |                0.96                   |
+|                      KNN   |                0.96                   |
+|Decision Tree Classifier    |                0.94                   |
 
 From the analysis, we have come to a conclusion that SVM is the best model for this dataset since we have a F1 score of 0.978 and Decison Tree Classifier is the worst model for this dataset with F1 score of 0.94.
